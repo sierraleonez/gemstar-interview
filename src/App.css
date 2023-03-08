@@ -1,0 +1,23 @@
+input:focus {
+  outline: none;
+}
+.main {
+  display: flex;
+}
+
+.sideBar {
+  width: 20%;
+  height: 100vh;
+  color: white;
+}
+
+.sideBar .logoContainer {
+  background-color: #73B9FF;
+  justify-items: center;
+}
+
+.sideBar .divider {
+  background-color: #DCDCDC;
+  width: 100%;
+  height: 1px;
+}
